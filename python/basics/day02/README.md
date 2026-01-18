@@ -5,3 +5,6 @@ Practiced Python conditional logic:
 - Numeric comparisons
 - User input handling
 - Basic control flow
+
+Additional practice:
+- Age classification using multiple conditional branches
